@@ -6,3 +6,8 @@ tmp/
 dist/
 .venv/
 *__pycache__/
+
+*.nsg
+*.graph
+*.fvecs
+*.ivecs
